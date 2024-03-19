@@ -12,9 +12,9 @@ Sevgiliniz için yapabileceğiniz küçük bir sürpriz. Sevgilinize özel isim 
 - Giriş Yaptıktan Sonra Resimleriniz Slider (Kayan Resim) Olarak Gösterilecektir
 
 ## Follow on:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/404Qea)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zekayasaygiduy)
 <p align="left">
-<a href="https://github.com/404Qea"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/iameac0d3rx"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 
 <a href="https://t.me/Qea404"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left"> 
