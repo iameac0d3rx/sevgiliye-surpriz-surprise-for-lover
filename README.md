@@ -19,4 +19,4 @@ Sevgiliniz için yapabileceğiniz küçük bir sürpriz. Sevgilinize özel isim 
 <a href="https://t.me/Qea404"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left"> 
 
-[![Tiktok]([https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white](https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1000px-TikTok_logo.svg.png?20200415104610)https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1000px-TikTok_logo.svg.png?20200415104610)](https://tiktok.com/iamc0d3rx)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iameac0d3rx)
