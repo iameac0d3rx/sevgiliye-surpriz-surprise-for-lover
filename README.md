@@ -16,7 +16,7 @@ Sevgiliniz için yapabileceğiniz küçük bir sürpriz. Sevgilinize özel isim 
 <p align="left">
 <a href="https://github.com/iameac0d3rx"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 
-<a href="https://t.me/Qea404"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+<a href="https://t.me/iameac0d3rx"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left"> 
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iamc0d3rx)
